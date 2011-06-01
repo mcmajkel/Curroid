@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Curroid</string>
+    <string name="cur1">Choose your currency</string>
+    <string name="cur2">Choose currency you want to convert to</string>
+    <string name="error">Invalid input</string>
+</resources>
